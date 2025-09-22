@@ -1,4 +1,4 @@
-package com.ds.string;
+package cse.ds.string;
 
 public class StringEqualExample {
     public static void main(String[] args) {
@@ -15,3 +15,4 @@ public class StringEqualExample {
         System.out.println(s1.equalsIgnoreCase(s4));//true
     }
 }
+

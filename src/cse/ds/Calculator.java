@@ -1,4 +1,4 @@
-package com.ds;
+package cse.ds;
 //make a class calculator to perform add, sub, mul, div using constructors
 class Cal{
     int add(int x, int y){

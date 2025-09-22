@@ -1,4 +1,4 @@
-package com.ds.string;
+package cse.ds.string;
 
 public class StringCompareToExample {
     public static void main(String[] args) {

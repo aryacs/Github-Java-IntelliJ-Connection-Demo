@@ -1,4 +1,4 @@
-package com.ds;
+package cse.ds;
 
 public class FactorialDemo {
 
